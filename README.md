@@ -5,4 +5,4 @@ Source code for the CS:2 cheat, gamesense.pub
 Learning purposes of course. Also because I felt like leaking it for my own personal gain.
 Go ahead and paste from it, I'm sure it will make your cheat 10x better.
 
-# THIS SOURCE IS FROM THE LATEST GAMESENSE BETA UPDATE. I WILL NOT UPDATE IT AGAIN.
+# THIS SOURCE IS FROM THE 2024 JANUARY GAMESENSE BETA UPDATE. I WILL NOT UPDATE IT AGAIN.
